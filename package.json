@@ -1,0 +1,13 @@
+{
+  "className": "ApplicationPython",
+  "name": "Brython console",
+  "category": "development",
+  "icon": "apps/python.png",
+  "type": "application",
+  "preload": [
+    {
+      "src": "main.js",
+      "type": "javascript"
+    }
+  ]
+}
